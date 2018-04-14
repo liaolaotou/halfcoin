@@ -1,6 +1,8 @@
 Halfcoin is a technical coin that can be mined on the CPU of your laptop
 ========================================================================
 
+For mining you can get client for Windows here: https://github.com/merecoin/halfcoin/releases or just compile the source code.
+
 Halfcoin is the basis for a new type of cryptocurrency exchange.
 ----------------------------------------------------------------
 
