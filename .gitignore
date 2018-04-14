@@ -1,0 +1,34 @@
+src/*.exe
+src/halfcoin
+src/halfcoind
+src/test_halfcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.halfcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+halfcoin-qt
+Halfcoin-Qt.app
+
+# Unit-tests
+Makefile.test
+halfcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile

@@ -1,0 +1,9 @@
+Building Halfcoin
+
+See doc/readme-qt.rst for instructions on building Halfcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Halfcoin.
+
+See doc/build-*.txt for instructions on building halfcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Halfcoin.
